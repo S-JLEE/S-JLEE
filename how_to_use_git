@@ -1,0 +1,27 @@
+➜  ~ code .
+➜  ~ git config --global core.editor "code"
+# use visual studio code as a editor
+➜  ~ git config --global -e
+# setting git into edit mode
+➜  ~ git config --global user.name "Ryan"
+# set git user name as Ryan
+➜  ~ git config --global user.email "leesj0331@gmail.com"
+# set git user email as leesj0331~
+
+➜  ~ git config user.name
+Ryan
+➜  ~ git config user.email
+leesj0331@gmail.com
+➜  ~ git config --global core.autocrlf input
+#window - true / mac - input - add/remove carriage return automatically while saving datas
+
+
+## learn git in terminal
+
+1. git config > use config command
+2. git commit > use commit command
+3. git add > use add command
+
+# git reference
+url : https://git-scm.com/docs
+
